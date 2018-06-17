@@ -16,7 +16,9 @@ using namespace std;
 int main(){
 
     cout << "------------------------Section 3------------------------------" << endl;
-cout << "poopface" << endl;
+
+
+
 //    IndexMap test(10);
 //    test.add("banana", 0, 1);
 //    test.add("Banana", 2, 3);
